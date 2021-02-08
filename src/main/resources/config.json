@@ -8,6 +8,6 @@
   "chargeForLove": "0",
   "devicePlatform": "ios",
   "coinAddPriority": 1,
-  "skipDailyTask": true,
+  "skipDailyTask": false,
   "userAgent": "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0"
 }
